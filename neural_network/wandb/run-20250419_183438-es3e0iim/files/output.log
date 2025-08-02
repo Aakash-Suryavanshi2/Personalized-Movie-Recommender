@@ -1,0 +1,33 @@
+Using device: cpu
+number of users: 610
+number of movies: 9742
+  0%|                                                                                 | 0/200 [00:00<?, ?it/s][34m[1mwandb[0m: [33mWARNING[0m Saving files without folders. If you want to preserve subdirectories pass base_path to wandb.save, i.e. wandb.save("/mnt/folder/file.h5", base_path="/mnt")
+Epoch 1: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_1
+100%|█████████████████████████████████████████████████████████████████████| 200/200 [1:58:39<00:00, 35.60s/it]
+Epoch 2: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_2
+Epoch 3: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_3
+Epoch 4: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_4
+Epoch 6: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_6
+Epoch 8: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_8
+Epoch 9: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_9
+Epoch 10: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_10
+Epoch 12: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_12
+Epoch 14: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_14
+Epoch 15: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_15
+Epoch 18: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_18
+Epoch 21: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_21
+Epoch 23: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_23
+Epoch 24: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_24
+Epoch 36: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_36
+Epoch 44: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_44
+Epoch 63: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_63
+Epoch 64: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_64
+Epoch 76: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_76
+Epoch 110: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_110
+Epoch 113: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_113
+Epoch 124: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_124
+Epoch 125: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_125
+Epoch 151: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_151
+Epoch 161: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_161
+Epoch 188: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_188
+Epoch 196: model saved at /Users/alantian/gatech/cs4641/ML4641-38/neural_network/models/joint/2025-04-19_18-34-39/epoch_196

@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-15.4-arm64-arm-64bit",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-04-19T22:34:38.905216Z",
+  "program":  "/Users/alantian/gatech/cs4641/ML4641-38/neural_network/train_joint.py",
+  "codePath":  "neural_network/train_joint.py",
+  "git":  {
+    "remote":  "https://github.gatech.edu/atian31/ML4641-38.git",
+    "commit":  "49eec58f7eb00e688ff6e5743be4a975b8c61bdd"
+  },
+  "email":  "alantian2018@gmail.com",
+  "root":  "/Users/alantian/gatech/cs4641/ML4641-38/neural_network",
+  "host":  "lawn-10-91-86-109.lawn.gatech.edu",
+  "executable":  "/opt/homebrew/Caskroom/miniconda/base/envs/ml_project/bin/python",
+  "codePathLocal":  "train_joint.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "70427320320"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "70427320320"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "4294967296",
+    "ramTotalBytes":  "8589934592"
+  }
+}
